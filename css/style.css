@@ -80,14 +80,18 @@ div#resp iframe{
 
 footer{
 	margin-top: 30px;
-	height: 140px;
+	height: 170px;
 	background: black;
 }
 
 footer img{
-	width: 120px;
+	width: 110px;
 }
 
 .row{
     margin:0px !important;
+}
+
+footer figure {
+	margin:5px 0px;
 }
